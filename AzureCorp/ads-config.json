@@ -1,4 +1,5 @@
 {
+  "com.vannasystems.fakecallfunnybluecat":{
   "config" : {
     "adcolony" : {
       "adcolony_app_id" : "",
@@ -46,5 +47,6 @@
       "mode_off_version" : "0",
       "privacy_link" : "https://sites.google.com/view/"
     }
+  }
   }
 }
