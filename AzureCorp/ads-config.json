@@ -22,14 +22,14 @@
       "facebook_rewarded_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "",
-      "applovin_interstitial_id" : "",
-      "applovin_rewarded_id" : ""
+      "applovin_banner_id" : "0333cf6734eedab1",
+      "applovin_interstitial_id" : "c8387d62c1591eb7",
+      "applovin_rewarded_id" : "0739f77cc9f89231"
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "",
+    "mode_ads_banner" : "applovin",
+    "mode_ads_interstitial" : "applovin",
     "mode_ads_native_enabled" : false,
-    "mode_ads_rewarded" : "",
+    "mode_ads_rewarded" : "applovin",
     "mode_button_ads_action" : "",
     "unity" : {
       "unity_app_id" : "",
