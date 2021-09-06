@@ -25,7 +25,7 @@
       "applovin_interstitial_id" : "c8387d62c1591eb7",
       "applovin_rewarded_id" : "0739f77cc9f89231"
     },
-    "mode_ads":"admob",
+    "mode_ads":"applovin",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
