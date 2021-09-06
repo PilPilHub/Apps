@@ -2,16 +2,15 @@
   "com.vannasystems.fakecallfunnybluecat":{
   "config" : {
     "adcolony" : {
-      "adcolony_app_id" : "",
-      "adcolony_interstitial_id" : "",
-      "adcolony_rewarded_id" : ""
+      "adcolony_app_id" : "appfeb30d2aa91348438b",
+      "adcolony_banner_id":"vzbe202b540016400297",
+      "adcolony_interstitial_id" : "vzfd4a898921094a3583",
+      "adcolony_rewarded_id" : "vz0e457324baad4ebb8b"
     },
     "admob" : {
       "admob_banner_id" : "ca-app-pub-5246528886709644/6161122353",
       "admob_interstitial_id" : "ca-app-pub-5246528886709644/1376819097",
-      "admob_native_id" : "",
-      "admob_rewarded_id" : "ca-app-pub-5246528886709644/4848040687",
-      "admob_unit_id" : ""
+      "admob_rewarded_id" : "ca-app-pub-5246528886709644/4848040687"
     },
     "appodeal" : {
       "appodeal_app_key" : ""
@@ -27,11 +26,6 @@
       "applovin_rewarded_id" : "0739f77cc9f89231"
     },
     "mode_ads":"admob",
-    "mode_ads_banner" : "applovin",
-    "mode_ads_interstitial" : "applovin",
-    "mode_ads_native_enabled" : false,
-    "mode_ads_rewarded" : "applovin",
-    "mode_button_ads_action" : "",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
@@ -44,10 +38,6 @@
       "update_msg" : "Please update the app to benefit from all the options.",
       "update_state" : false,
       "update_title" : "New version available"
-    },
-    "app" : {
-      "mode_off_version" : "0",
-      "privacy_link" : "https://sites.google.com/view/"
     },
     "last_version":""
   }
