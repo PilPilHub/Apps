@@ -58,7 +58,7 @@
       "applovin_interstitial_id" : "91b8cf18ede142df",
       "applovin_rewarded_id" : "f0b672c2bd4fc6b5"
     },
-    "mode_ads":"adcolony",
+    "mode_ads":"admob",
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://www.google.fr/",
