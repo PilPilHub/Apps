@@ -12,9 +12,6 @@
       "admob_interstitial_id" : "ca-app-pub-5246528886709644/1376819097",
       "admob_rewarded_id" : "ca-app-pub-5246528886709644/4848040687"
     },
-    "appodeal" : {
-      "appodeal_app_key" : ""
-    },
     "facebook" : {
       "facebook_banner_id" : "368151074936301_368151764936232",
       "facebook_interstitial_id" : "368151074936301_368153591602716",
@@ -25,13 +22,7 @@
       "applovin_interstitial_id" : "c8387d62c1591eb7",
       "applovin_rewarded_id" : "0739f77cc9f89231"
     },
-    "mode_ads":"facebook",
-    "unity" : {
-      "unity_app_id" : "",
-      "unity_banner_id" : "",
-      "unity_interstitial_id" : "",
-      "unity_rewarded_id" : ""
-    },
+    "mode_ads":"admob",
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://www.google.fr/",
