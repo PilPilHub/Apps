@@ -1,26 +1,26 @@
 {
-  "com.vannasystems.fakecallfunnybluecat":{
+  "com.volgasystems.fakecallmikecrack":{
   "config" : {
     "adcolony" : {
-      "adcolony_app_id" : "appfeb30d2aa91348438b",
-      "adcolony_banner_id":"vzbe202b540016400297",
-      "adcolony_interstitial_id" : "vzfd4a898921094a3583",
-      "adcolony_rewarded_id" : "vz0e457324baad4ebb8b"
+      "adcolony_app_id" : "",
+      "adcolony_banner_id":"",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-5246528886709644/6161122353",
-      "admob_interstitial_id" : "ca-app-pub-5246528886709644/1376819097",
-      "admob_rewarded_id" : "ca-app-pub-5246528886709644/4848040687"
+      "admob_banner_id" : "ca-app-pub-5246528886709644/7012289159",
+      "admob_interstitial_id" : "ca-app-pub-5246528886709644/1237218299",
+      "admob_rewarded_id" : "ca-app-pub-5246528886709644/3073044145"
     },
     "facebook" : {
-      "facebook_banner_id" : "368151074936301_368151764936232",
-      "facebook_interstitial_id" : "368151074936301_368153591602716",
-      "facebook_rewarded_id" : "368151074936301_368153761602699"
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_rewarded_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "0333cf6734eedab1",
-      "applovin_interstitial_id" : "c8387d62c1591eb7",
-      "applovin_rewarded_id" : "0739f77cc9f89231"
+      "applovin_banner_id" : "7c8b38d3d3f538c8",
+      "applovin_interstitial_id" : "1203568b280cca06",
+      "applovin_rewarded_id" : "6a85f2c7ce21fa86"
     },
     "mode_ads":"adcolony",
     "update" : {
@@ -34,44 +34,30 @@
   }
 },
   
-  
-  "com.vannasystems.fakecallbalveer":{
+  "com.volgasystems.fakecallbalveer":{
   "config" : {
     "adcolony" : {
       "adcolony_app_id" : "",
+      "adcolony_banner_id":"",
       "adcolony_interstitial_id" : "",
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "",
-      "admob_interstitial_id" : "",
-      "admob_native_id" : "",
-      "admob_rewarded_id" : "",
-      "admob_unit_id" : ""
-    },
-    "appodeal" : {
-      "appodeal_app_key" : ""
+      "admob_banner_id" : "ca-app-pub-5246528886709644/8732564934",
+      "admob_interstitial_id" : "ca-app-pub-5246528886709644/8787285693",
+      "admob_rewarded_id" : "ca-app-pub-5246528886709644/8540993241"
     },
     "facebook" : {
       "facebook_banner_id" : "",
       "facebook_interstitial_id" : "",
-      "facebook_native_id" : ""
+      "facebook_rewarded_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "",
-      "applovin_interstitial_id" : ""
+      "applovin_banner_id" : "6c92f2763d74f6f3",
+      "applovin_interstitial_id" : "dbdaa3ddc4591e2b",
+      "applovin_rewarded_id" : "981ce33961c1b889"
     },
-    "mode_ads_banner" : "",
-    "mode_ads_interstitial" : "",
-    "mode_ads_native_enabled" : false,
-    "mode_ads_rewarded" : "",
-    "mode_button_ads_action" : "",
-    "unity" : {
-      "unity_app_id" : "",
-      "unity_banner_id" : "",
-      "unity_interstitial_id" : "",
-      "unity_rewarded_id" : ""
-    },
+    "mode_ads":"adcolony",
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://www.google.fr/",
@@ -79,12 +65,9 @@
       "update_state" : false,
       "update_title" : "New version available"
     },
-    "app" : {
-      "mode_off_version" : "0",
-      "privacy_link" : "https://sites.google.com/view/"
-    }
+    "last_version":""
   }
-  }
+}
 
 
 }
