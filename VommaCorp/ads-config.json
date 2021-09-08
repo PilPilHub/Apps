@@ -22,7 +22,7 @@
       "applovin_interstitial_id" : "f105d89bf4c6872f",
       "applovin_rewarded_id" : "5ba2bdc62d91103f"
     },
-    "mode_ads":"adcolony",
+    "mode_ads":"applovin",
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://www.google.fr/",
@@ -57,7 +57,7 @@
       "applovin_interstitial_id" : "ae4aa9509c060877",
       "applovin_rewarded_id" : "83c57e3c7b1ad3e7"
     },
-    "mode_ads":"adcolony",
+    "mode_ads":"applovin",
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://www.google.fr/",
