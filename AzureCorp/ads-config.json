@@ -92,7 +92,7 @@
       "applovin_interstitial_id" : "88b9f2aeff0f6571",
       "applovin_rewarded_id" : "44b9ce079b7118d5"
     },
-    "mode_ads":"adcolony",
+    "mode_ads":"facebook",
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://www.google.fr/",
