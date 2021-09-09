@@ -22,7 +22,7 @@
       "applovin_interstitial_id" : "8181440e08759353",
       "applovin_rewarded_id" : "54705d6bce5401d5"
     },
-    "mode_ads":"adcolony",
+    "mode_ads":"applovin",
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://www.google.fr/",
