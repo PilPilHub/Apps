@@ -1,0 +1,73 @@
+{
+  "com.azuresolutions.fakecallgrannyteacher":{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_banner_id":"",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "ca-app-pub-5246528886709644/9717223983",
+      "admob_interstitial_id" : "ca-app-pub-5246528886709644/4218604858",
+      "admob_rewarded_id" : "ca-app-pub-5246528886709644/5216239172"
+    },
+    "facebook" : {
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_rewarded_id" : ""
+    },
+    "applovin" : {
+      "applovin_banner_id" : "8085786c1c729cd0",
+      "applovin_interstitial_id" : "7a94bea14d281e4e",
+      "applovin_rewarded_id" : "c8022d7f6a132e9c"
+    },
+    "mode_ads":"applovin",
+    "update" : {
+      "enable_update_closed" : false,
+      "update_action" : "https://www.google.fr/",
+      "update_msg" : "Please update the app to benefit from all the options.",
+      "update_state" : false,
+      "update_title" : "New version available"
+    },
+    "last_version":""
+  }
+},
+
+  
+    "com.azuresolutions.fakecallchucky":{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_banner_id":"",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "ca-app-pub-5246528886709644/2115185699",
+      "admob_interstitial_id" : "ca-app-pub-5246528886709644/7175940686",
+      "admob_rewarded_id" : "ca-app-pub-5246528886709644/7966278170"
+    },
+    "facebook" : {
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_rewarded_id" : ""
+    },
+    "applovin" : {
+      "applovin_banner_id" : "00a654ab7e3bf3b0",
+      "applovin_interstitial_id" : "693871ec024e0336",
+      "applovin_rewarded_id" : "af60aad26c3f3bc4"
+    },
+    "mode_ads":"applovin",
+    "update" : {
+      "enable_update_closed" : false,
+      "update_action" : "https://www.google.fr/",
+      "update_msg" : "Please update the app to benefit from all the options.",
+      "update_state" : false,
+      "update_title" : "New version available"
+    },
+    "last_version":""
+  }
+}
+
+}
