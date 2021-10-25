@@ -24,8 +24,8 @@
       "applovin_banner_id" : "2534901c5b71b8bf",
       "applovin_interstitial_id" : "677be6eab8699488"
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "applovin",
+    "mode_ads_interstitial" : "applovin",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "admob",
     "mode_button_ads_action" : "",
